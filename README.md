@@ -43,7 +43,7 @@ The source code is organized into modular packages under `src/slms`:
 ```text
 src/
 └── slms/
-    ├── builder/      # K2559097_BookBuilder (Object Construction)
+    ├── builder/      # BookBuilder (Object Construction)
     ├── command/      # Borrow, Return, Reserve Commands & Invoker
     ├── decorator/    # Featured & SpecialEdition Decorators
     ├── model/        # Core Entities: Book, User, BorrowRecord
